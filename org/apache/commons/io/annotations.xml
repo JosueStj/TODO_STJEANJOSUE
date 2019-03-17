@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='org.apache.commons.io.FileUtils java.util.List&lt;java.lang.String&gt; readLines(java.io.File)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
